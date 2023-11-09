@@ -6,6 +6,7 @@
   
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanseungwan1&count_bg=%23D79F21&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GitHub+Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 </div><br>
+
 ## 💻 It's Me 💻
 <div style="display:flex; flex-direction:row;">
     <a href="">
@@ -17,8 +18,12 @@
        <a href="">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-</div><br>
-<div style="display:flex; flex-direction:row;" align="center">
+   <br><br>
+   <p>👋  Hi there! I'm seungwan Han<br>
+      I'm currently diving into the world of <b>web development</b>.🏄<br>
+      I kicked off my journey with front-end development. <br>
+      now I'm delving into the back-end side at the academy.✏<br><br>
+      I find both servers and clients equally fascinating,<br> and the joy of crafting them keeps me thoroughly engaged in the development process.🚀</p>
 
 </div><br>
 
