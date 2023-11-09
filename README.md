@@ -37,7 +37,7 @@
       <img alt="Java" src ="https://img.shields.io/badge/☕ Java-4c7491.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
       <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 </div><br>
-<div align="right">
+<div align="left">
    <br>
    <br>
    
