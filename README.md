@@ -3,34 +3,26 @@
    ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:dea81e,100:fce417&height=200&text=hanseungwan1@GitHub&fontAlignY=40&animation=fadeIn&fontColor=FFFFFF&fontSize=30&desc=WEB%20DEVELOPER&descAlignY=14&descAlign=11)
 <br>
 <div style="display:flex; flex-direction:row;" align="right">
-  
+   
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanseungwan1&count_bg=%23D79F21&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GitHub+Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 ## 😎 It's Me
-<div style="display:flex; flex-direction:row;">
-    <a href="">
-        <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"> 
-    </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
-    </a>
-       <a href="">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
+<div>
+   <a href="/"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
+   <a href="/"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+   <a href="/"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
    <br><br>
    <p>👋  Hi there! I'm seungwan Han<br>
       I'm currently diving into the world of <b>web development</b>.🏄<br>
       I kicked off my journey with front-end development. <br>
       now I'm delving into the back-end side at the academy.✏<br><br>
       I find both servers and clients equally fascinating,<br> and the joy of crafting them keeps me thoroughly engaged in the development process.🚀</p>
-
 </div><br>
 
 ## 🔨 Tech Stack
 ### 💻 FrontEnd
-
-<div style="display:flex; flex-direction:row;">
+<div>
     <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
     <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
     <img alt="javascript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -39,8 +31,7 @@
 </div><br>
 
 ### 💻 BackEnd
-
-<div style="display:flex; flex-direction:row;">
+<div>
     <img alt="SpringBoot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
     <img alt="JPA" src ="https://img.shields.io/badge/🔋 JPA-6DB33F.svg?&style=for-the-badge&logo=JPA&logoColor=white"/>
       <img alt="Java" src ="https://img.shields.io/badge/☕ Java-4c7491.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
