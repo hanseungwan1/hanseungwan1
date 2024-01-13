@@ -10,7 +10,7 @@
 ## 😎 It's Me
 <div>
    <a href="https://velog.io/@seungwanhan542"><img src="https://img.shields.io/badge/TechBlog-20C997?style=flat-square&logo=velog&logoColor=white"></a>
-   <a href="https://seemly-dewberry-338.notion.site/9d70888c31344416b879f03fb5341a75?pvs=4"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"></a>
+   <a href=""><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"></a>
    <a href="mailto:﻿"seungwanhan542@gmail.com"><img src="https://img.shields.io/badge/seungwanhan542@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
    <br><br>
    <p>👋  Hi there! I'm seungwan Han<br>
