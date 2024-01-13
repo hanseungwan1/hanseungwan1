@@ -13,12 +13,9 @@
    <a href=""><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"></a>
    <a href="mailto:﻿"seungwanhan542@gmail.com"><img src="https://img.shields.io/badge/seungwanhan542@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
    <br><br>
-   <p>👋  Hi there! I'm seungwan Han<br>
-      I'm currently diving into the world of <b>web development</b>.🏄<br>
-      I kicked off my journey with front-end development. <br>
-      now I'm delving into the back-end side at the academy.✏<br><br>
-      I find both servers and clients equally fascinating,<br> and the joy of crafting them keeps me thoroughly engaged in the development process.🚀</p>
-</div><br>
+   <p>👋  Hello there! I'm Seungwan Han, and I work as a <b>web developer</b>.🏄<br>
+   </p>
+</div>
 
 ## 🔨 Tech Stack
 ### 💻 FrontEnd
